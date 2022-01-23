@@ -1,2 +1,2 @@
-# 100-Repositories
-Thank you all for helping me get to 100 repositories on GitHub!
+# 100 Repositories ✨
+On January 23rd 2022 I reached 100 repositories on GitHub. Thank you all for helping me get to this number of repos! I could not have got this without the help of [CodeMaster7000](https://github.com/CodeMaster7000) and all of you guys who motivated me and gave me ideas for GitHub repositories! So to conclude with, a really big thanks to CodeMaster7000 and the general public of this world for helping me get to 100 repositories! This is a really big achievement that I have got to and I hope that I can get to 1000 in the near future with all of your help!
